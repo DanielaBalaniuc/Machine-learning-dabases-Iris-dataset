@@ -41,4 +41,4 @@ We can see that Accuracy is 0.9 or 90%. The confusion matrix provides an indicat
 
 You can learn more about making predictions and predicting probabilities here:
 
-[Como fazer previsões com o scikit-learn](https://scikit-learn.org/stable/modules/cross_validation.html)
+[How to make predictions with scikit-Learn](https://scikit-learn.org/stable/modules/cross_validation.html)
