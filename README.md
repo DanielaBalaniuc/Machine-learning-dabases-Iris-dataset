@@ -18,12 +18,12 @@ Visualizing the data set.
 Evaluating a few algorithms.
 Making a few predictions.
 
-Vamos avaliar 6 algoritmos diferentes:
+Let’s evaluate six different algorithms:
 
-Regressão Logística (LR)
-Análise Linear Discriminante (LDA)
-K-vizinhos mais próximos (KNN).
-Árvores de Classificação (Decision Tree) e Regressão (CART).
+Logistic Regression (LR)
+Linear Discriminant Analysis (LDA)
+Nearest K-neighbors (KNN).
+Classification (Decision Tree) and Regression (CART) trees.
 Gaussian Naive Bayes (NB).
 Support Vector Machines (SVM).
 
